@@ -45,7 +45,8 @@ This project was developed for job seekers and employers spend less time to sear
 ## How to install in your local?
 1. Please clone this project into your webserver directory (eg:wamp/www)
 2. Rename .env-example to .env
-3. Configure smtp in .env file which you juse renamed
+3. Create a virtual host is recommended
+4. Configure smtp in .env file which you juse renamed
 - DB_HOST
 - DB_USERNAME
 - DB_PASSWORD
