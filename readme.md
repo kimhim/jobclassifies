@@ -39,7 +39,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 - MAIL_USERNAME
 - MAIL_PASSWORD
 - MAIL_ENCRYPTION
+
 ## Example : 
+
 APP_ENV=local
 APP_DEBUG=true
 APP_KEY=base64:6tbZLZ6M4xBwavZvHI+xWzUBZ5tNR1SUbqosjsZHoA8=
