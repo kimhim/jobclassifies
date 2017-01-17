@@ -43,28 +43,45 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Example : 
 
 APP_ENV=local
+
 APP_DEBUG=true
+
 APP_KEY=base64:6tbZLZ6M4xBwavZvHI+xWzUBZ5tNR1SUbqosjsZHoA8=
+
 APP_URL=http://cambodianjob.local/
 
 DB_CONNECTION=mysql
+
 DB_HOST=localhost
+
 DB_PORT=3306
+
 DB_DATABASE=cambodianjob
+
 DB_USERNAME=root
+
 DB_PASSWORD=
 
 CACHE_DRIVER=file
+
 SESSION_DRIVER=file
+
 QUEUE_DRIVER=sync
 
 REDIS_HOST=127.0.0.1
+
 REDIS_PASSWORD=null
+
 REDIS_PORT=6379
 
 MAIL_DRIVER=smtp
+
 MAIL_HOST=smtp.gmail.com
+
 MAIL_PORT=587
+
 MAIL_USERNAME=ariya.hun16@gmail.com
+
 MAIL_PASSWORD=ariya16159753
+
 MAIL_ENCRYPTION=tls
