@@ -1,0 +1,82 @@
+@CHARSET "ISO-8859-1";
+
+body,html{
+	font-family:'Arial';
+	font-size:14px;
+}
+a.link,span.edit-delete{
+	color:#d9534f;
+	font-style:italic;
+}
+h2.resume-main-title{
+	text-decoration: underline;
+}
+span.required{
+	color:red;
+}
+h3.resume-title,h2.resume-main-title{
+	color:#337ab7;
+	font-weight: bold;
+}
+a.add{
+	font-size:14px;
+}
+ul.personal-info{
+	margin-left:0;
+	padding-left:5px;
+}
+.panel-heading,.panel-footer{
+	overflow:hidden;
+}
+.panel-footer{
+	padding:0;
+	margin:0;
+}
+.navbar{
+    background-color:#337ab7;
+}
+.navbar a.navbar-brand,.navbar .container .navbar-nav>li>a,.navbar .container .navbar-nav>li>a,.navbar-default .navbar-brand{
+	color:#fff;
+}
+.pagination{
+	padding:4px 0 0 0;
+	margin:0 auto;
+}
+div#dvPreview{
+	position: absolute;
+	top:-60px;
+}
+i.email-success,i.email-fail{
+	font-size:20px;
+}
+i.email-success{
+	color:green;
+}
+i.email-fail{
+	color:red;
+}
+hr.message-inner-separator
+{
+    clear: both;
+    margin-top: 10px;
+    margin-bottom: 13px;
+    border: 0;
+    height: 1px;
+    background-image: -webkit-linear-gradient(left,rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.15),rgba(0, 0, 0, 0));
+    background-image: -moz-linear-gradient(left,rgba(0,0,0,0),rgba(0,0,0,0.15),rgba(0,0,0,0));
+    background-image: -ms-linear-gradient(left,rgba(0,0,0,0),rgba(0,0,0,0.15),rgba(0,0,0,0));
+    background-image: -o-linear-gradient(left,rgba(0,0,0,0),rgba(0,0,0,0.15),rgba(0,0,0,0));
+}
+table.user-list thead tr th{
+	border-bottom:none;
+}
+table.table tr td,table.table tr th{
+	vertical-align: middle;
+	text-align: center;
+}
+.alert{
+	padding:5px;
+}
+.nav > li > a:focus, .nav > li > a:hover{
+	color:#337ab7 !important;
+}
