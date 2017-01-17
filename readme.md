@@ -33,7 +33,7 @@ This project was developed for job seekers and employers spend less time to sear
 1. User registration(either by their own user or by administrator)
 2. En email will send to registered user with a link to veryfy their account.
 3. Can update their profile
-4. All profile photos are resized to 120 X 150
+4. All profile photos are resized to 120px X 150px
 5. All profile photos are named by radom number with 10 digits uniquely.
 6. Employers can post/edit/delete/ and disable/enable their jobs.
 7. Employees can apply job if their account is activated by sending one email to Employer directly with attachment of their latest CV generation as PDF file with profile photos.
