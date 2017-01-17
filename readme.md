@@ -26,6 +26,21 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
+## Project Decription
+This project was developed for job seekers and employers spend less time to search, apply or select employee.
+
+## Below are what this project can do for now
+1. User registration(either by their own user or by administrator)
+2. En email will send to registered user with a link to veryfy their account.
+3. Can update their profile
+4. All profile photos are resized to 120 X 150
+5. All profile photos are named by radom number with 10 digits uniquely.
+6. Employers can post/edit/delete/ and disable/enable their jobs.
+7. Employees can apply job if their account is activated by sending one email to Employer directly with attachment of their latest CV generation as PDF file with profile photos.
+8. For adminstator can manage all users and jobs in the system
+10. All profile photos are store in two directory, one for original photo and another for the resized photos.
+11. Everytime when profile photos are update, it will remove from both dirdtory as well
+11. When users is removed from the system, all their information(CV,job) will be removed authomatically.
 ## How to install in your local?
 1. Please clone this project into your webserver directory (eg:wamp/www)
 2. Rename .env-example to .env
