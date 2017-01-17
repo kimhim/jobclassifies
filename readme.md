@@ -41,6 +41,7 @@ This project was developed for job seekers and employers spend less time to sear
 10. All profile photos are store in two directory, one for original photo and another for the resized photos.
 11. Everytime when profile photos are update, it will remove from both dirdtory as well
 11. When users is removed from the system, all their information(CV,job) will be removed authomatically.
+
 ## How to install in your local?
 1. Please clone this project into your webserver directory (eg:wamp/www)
 2. Rename .env-example to .env
